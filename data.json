@@ -1,0 +1,10 @@
+{
+    "Token" : { 
+        "Discord" : "DISCORD_TOKEN", 
+        "Slack" : "SLACK_TOKEN"},
+    "if_someone_mentions_me" : ["User kripya dhyaan de, mujhe upyog krne ka treeka kuchh iss prakar hai : \n!slack general Namaste mitron!", "Hola! \nI'm a cross platform messaging bot.\nThrough me you can send message from Discord to Slack.", "Kitna tag krte rhte ho yrr!", "Hi peeps, I'm a cross platform messaging bot."],
+    "commands" : {
+        "slack" : ["Sends the message to slack\n Usage: !slack channel_name msg\neg: !slack general Predicting future isn't magic its Data Science"]
+    },
+    "Prefix" : "!"
+}
